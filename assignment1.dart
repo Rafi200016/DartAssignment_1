@@ -2,7 +2,7 @@ class Media {
   //Class created
   void play()
   {
-    print('playing media..');
+    print('playing media...');
   }
 }
 
